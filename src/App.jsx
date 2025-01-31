@@ -114,7 +114,7 @@ function App() {
   }
 
   return (
-    <main className="w-full flex flex-col gap-8 bg-[#ebdfd7] md:flex-row md:h-screen ">
+    <main className="w-full flex flex-col gap-8 bg-[#ebdfd7] md:flex-row h-screen ">
       <ProjectSidebar
         onStartAddProject={handleStartAddProject}
         onCancel={handleCancelAddProject}
