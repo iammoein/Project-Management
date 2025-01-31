@@ -123,10 +123,7 @@ function App() {
         selectedProjectId={projectState.selectedProjectId}
       />
       {content}
-      <h2>Heelo</h2>
-    </main>
-
-    
+      </main>
   );
 }
 
